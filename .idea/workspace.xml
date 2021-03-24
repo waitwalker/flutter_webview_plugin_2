@@ -1,87 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dbd8342-cb08-4e59-960b-cab0f27fbb4f" name="Default Changelist" comment="">
+    <list default="true" id="ac636c1b-8219-4e39-aeea-3a52dbcb6e89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_webview_plugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/flutter_webview_plugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/flutter_webview_plugin/BrowserClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/flutter_webview_plugin/FlutterWebviewPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/flutter_webview_plugin/JavaScriptChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/flutter_webview_plugin/ObservableWebView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/flutter_webview_plugin/WebviewManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/res/xml/filepaths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/com/flutter_webview_plugin/FlutterWebviewPluginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/yourcompany/flutter_webview_plugin_example/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/flutter_webview_plugin_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example/flutter_webview_plugin_example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/.last_build_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Flutter.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_assets/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_assets/fonts/MaterialIcons-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/Runner.xcscmblueprint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/main.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/main.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_webview_plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_webview_plugin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterWebviewPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterWebviewPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/WebviewJavaScriptChannelHandler.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/WebviewJavaScriptChannelHandler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/WebviewJavaScriptChannelHandler.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/WebviewJavaScriptChannelHandler.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/flutter_webview_plugin.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_webview_plugin.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_webview_plugin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_webview_plugin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flutter_webview_plugin_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/flutter_webview_plugin_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[defcdd78]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ndP5dkx4SK5ELlGxQY0Dt0F57x" />
+  <component name="ProjectId" id="1qBv6JO9Y1Vvg7hRyUYqqDUb33o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDK Location" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RunManager">
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4dbd8342-cb08-4e59-960b-cab0f27fbb4f" name="Default Changelist" comment="" />
-      <created>1611716812611</created>
+      <changelist id="ac636c1b-8219-4e39-aeea-3a52dbcb6e89" name="Default Changelist" comment="" />
+      <created>1616565620785</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611716812611</updated>
+      <updated>1616565620785</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1503" height="275" key="GridCell.Tab.0.bottom" timestamp="1611717655363">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.0.bottom" timestamp="1616569655980">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.0.bottom/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655363" />
-    <state width="1503" height="275" key="GridCell.Tab.0.center" timestamp="1611717655362">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569655980" />
+    <state width="1552" height="325" key="GridCell.Tab.0.center" timestamp="1616569655979">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.0.center/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655362" />
-    <state width="1503" height="275" key="GridCell.Tab.0.left" timestamp="1611717655362">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569655979" />
+    <state width="1552" height="325" key="GridCell.Tab.0.left" timestamp="1616569655979">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.0.left/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655362" />
-    <state width="1503" height="275" key="GridCell.Tab.0.right" timestamp="1611717655362">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569655979" />
+    <state width="1552" height="325" key="GridCell.Tab.0.right" timestamp="1616569655980">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.0.right/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655362" />
-    <state width="1503" height="275" key="GridCell.Tab.1.bottom" timestamp="1611717655362">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569655980" />
+    <state width="1552" height="325" key="GridCell.Tab.1.bottom" timestamp="1616569656093">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.1.bottom/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655362" />
-    <state width="1503" height="275" key="GridCell.Tab.1.center" timestamp="1611717655362">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569656093" />
+    <state width="1552" height="325" key="GridCell.Tab.1.center" timestamp="1616569656093">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.1.center/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655362" />
-    <state width="1503" height="275" key="GridCell.Tab.1.left" timestamp="1611717655362">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569656093" />
+    <state width="1552" height="325" key="GridCell.Tab.1.left" timestamp="1616569656092">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.1.left/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655362" />
-    <state width="1503" height="275" key="GridCell.Tab.1.right" timestamp="1611717655362">
-      <screen x="2560" y="25" width="1920" height="1055" />
+    <state width="1552" height="325" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569656092" />
+    <state width="1552" height="325" key="GridCell.Tab.1.right" timestamp="1616569656093">
+      <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1503" height="275" key="GridCell.Tab.1.right/2560.25.1920.1055/0.25.2560.1345@2560.25.1920.1055" timestamp="1611717655362" />
+    <state width="1552" height="325" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.985@1920.25.1920.1055" timestamp="1616569656093" />
   </component>
 </project>
