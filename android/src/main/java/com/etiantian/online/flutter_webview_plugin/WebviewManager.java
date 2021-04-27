@@ -460,6 +460,7 @@ class WebviewManager {
             ViewGroup vg = (ViewGroup) (webView.getParent());
             vg.removeView(webView);
         }
+        webView.destroy();
         webView = null;
         if (result != null) {
             result.success(null);
